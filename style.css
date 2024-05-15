@@ -1,0 +1,15 @@
+.nav
+{
+    background:#2ecc71;
+}
+
+.nav-link
+{
+    color:#fff;
+    
+}
+.nav-link:hover{
+    color: #fff;
+    background: #27ae60;
+}
+
